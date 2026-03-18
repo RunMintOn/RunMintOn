@@ -5,12 +5,12 @@
 </p>
 
 ## 
-- Just a little boy who want to make big things.
-- Love turning ideas into working projects.
-- Curiosity, patience, and high autonomy.
-- Interested in new things, ai, agent like direction.
-- Always learning, always shipping.
-- Currently looking for an internship opportunity. If you are interested in me. I learn most things quickly.
+ - Just a curious builder trying to make meaningful things.
+ - Love turning ideas into working projects.
+ - Curious, patient, and highly self-driven.
+ - Interested in new things, AI, and agent-related work.
+ - Always learning, always shipping.
+ - Currently looking for an internship opportunity. If you're interested, feel free to reach out. I learn most things quickly.
 
 ## 
 

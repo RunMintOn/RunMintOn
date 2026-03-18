@@ -5,7 +5,6 @@
       font-size: 52px;
       font-weight: 800;
       letter-spacing: 3px;
-      text-transform: uppercase;
       text-anchor: middle;
     }
 
@@ -50,12 +49,12 @@
   </style>
 
   <g class="line-1">
-    <text x="453" y="58" class="title shadow">Trying really hard</text>
-    <text x="450" y="54" class="title main">Trying really hard</text>
+    <text x="453" y="58" class="title shadow">Trying Really Hard</text>
+    <text x="450" y="54" class="title main">Trying Really Hard</text>
   </g>
 
   <g class="line-2">
-    <text x="453" y="118" class="title shadow">for a better world</text>
-    <text x="450" y="114" class="title main">for a better world</text>
+    <text x="453" y="118" class="title shadow">For a Better World</text>
+    <text x="450" y="114" class="title main">For a Better World</text>
   </g>
 </svg>
