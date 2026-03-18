@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=150&color=2F80ED&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+RunMintOn;Code+Build+Learn+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=150&color=2F80ED&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+RunMintOn;Code+Build+Learn+Repeat" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Trying%20really%20hard%20for%20a%20better%20world&width=900&height=160" alt="Subtitle SVG" />
+  <img src="./banner.svg" alt="Animated banner" />
 </p>
 
 ## 
