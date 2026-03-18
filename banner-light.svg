@@ -1,0 +1,61 @@
+<svg width="900" height="170" viewBox="0 0 900 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font-family: 'Trebuchet MS', 'Segoe UI', sans-serif;
+      font-size: 52px;
+      font-weight: 800;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      text-anchor: middle;
+    }
+
+    .shadow {
+      fill: rgba(148, 163, 184, 0.42);
+    }
+
+    .main {
+      fill: #0f172a;
+    }
+
+    .line-1,
+    .line-2 {
+      transform-origin: 450px 85px;
+      animation: float 3s ease-in-out infinite;
+    }
+
+    .line-2 {
+      animation-delay: 0.18s;
+    }
+
+    @keyframes float {
+      0% {
+        transform: translate(0px, 0px) rotate(0deg);
+      }
+      20% {
+        transform: translate(1px, -1px) rotate(-0.5deg);
+      }
+      40% {
+        transform: translate(-1px, 1px) rotate(0.4deg);
+      }
+      60% {
+        transform: translate(1px, 0px) rotate(-0.3deg);
+      }
+      80% {
+        transform: translate(-1px, -1px) rotate(0.5deg);
+      }
+      100% {
+        transform: translate(0px, 0px) rotate(0deg);
+      }
+    }
+  </style>
+
+  <g class="line-1">
+    <text x="453" y="58" class="title shadow">Trying really hard</text>
+    <text x="450" y="54" class="title main">Trying really hard</text>
+  </g>
+
+  <g class="line-2">
+    <text x="453" y="118" class="title shadow">for a better world</text>
+    <text x="450" y="114" class="title main">for a better world</text>
+  </g>
+</svg>

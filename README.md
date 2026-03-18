@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="./banner.svg" alt="Animated banner" />
+  <img src="./banner-light.svg#gh-light-mode-only" alt="Animated banner for light mode" />
+  <img src="./banner-dark.svg#gh-dark-mode-only" alt="Animated banner for dark mode" />
 </p>
 
 ## 
