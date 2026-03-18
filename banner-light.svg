@@ -10,11 +10,11 @@
     }
 
     .shadow {
-      fill: rgba(148, 163, 184, 0.42);
+      fill: rgba(148, 163, 184, 0.28);
     }
 
     .main {
-      fill: #0f172a;
+      fill: #475569;
     }
 
     .line-1,

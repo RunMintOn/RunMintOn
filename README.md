@@ -1,9 +1,5 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2200&pause=150&color=2F80ED&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+RunMintOn;Code+Build+Learn+Repeat" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="./banner-light.svg#gh-light-mode-only" alt="Animated banner for light mode" />
   <img src="./banner-dark.svg#gh-dark-mode-only" alt="Animated banner for dark mode" />
 </p>
