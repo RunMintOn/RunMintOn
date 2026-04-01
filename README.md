@@ -15,5 +15,5 @@
 ## 
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RunMintOn&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://ghstats.dev/api/card?username=RunMintOn" alt="GitHub Stats" />
 </p>
