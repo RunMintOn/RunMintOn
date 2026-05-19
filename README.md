@@ -15,5 +15,5 @@
 ## 
 
 <p>
-  <img height="165" src="https://ghstats.dev/api/card?username=RunMintOn" alt="GitHub Stats" />
+  <img height="220" src="https://ghstats.dev/api/card?username=RunMintOn" alt="GitHub Stats" />
 </p>
