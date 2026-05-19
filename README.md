@@ -5,13 +5,11 @@
 </p>
 
 ## 
- - Just a curious builder trying to make meaningful things.
- - Love turning ideas into working projects.
- - Curious, patient, and highly self-driven.
- - Interested in new things, AI, and agent-related work.
- - Always learning, always shipping.
- - Currently looking for an internship opportunity. If you're interested, feel free to reach out. I learn most things quickly.
-
+ - A curious builder trying to make really useful things for people who build, learn, and think.
+ - I turn personal pain points into working tools, mostly around AI, agents, CLI workflows, and developer experience.
+ - Care about clarity, usefulness, and fast iteration more than polished buzzwords.
+ - Always learning, always shipping, trying to make my work a little less disposable each time.
+ - Open to internship opportunities — especially around AI tooling, developer experience, and product-oriented engineering.
 ## 
 
 <p>
