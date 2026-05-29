@@ -16,5 +16,5 @@
 
 | Project | What it does |  
 |---|---|
-| [pi-lean-grep](https://github.com/RunMintOn/pi-lean-grep) | 让 pi 内置的 grep tool 更克制：少烧 token，少点噪音，回归原本定位
-| [pi-guard-sandbox](https://github.com/RunMintOn/pi-guard-sandbox) | [近600次下载]  给pi定制的OS级沙盒, 放心让Pi跑, 无感 精准 透明可控
+| [pi-lean-grep](https://github.com/RunMintOn/pi-lean-grep) | 新项目 ｜ 让 pi 内置的 grep tool 更克制：少烧 token，少点噪音，回归原本定位
+| [pi-guard-sandbox](https://github.com/RunMintOn/pi-guard-sandbox) | 近600次下载 ｜ 给pi定制的OS级沙盒, 放心让Pi跑, 无感 精准 透明可控
