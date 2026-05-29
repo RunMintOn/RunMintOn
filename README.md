@@ -11,7 +11,3 @@
  - Always learning, always shipping, trying to make my work a little less disposable each time.
  - Open to internship opportunities — especially around AI tooling, developer experience, and product-oriented engineering.
 ## 
-
-<p>
-  <img height="250" src="https://ghstats.dev/api/card?username=RunMintOn" alt="GitHub Stats" />
-</p>
