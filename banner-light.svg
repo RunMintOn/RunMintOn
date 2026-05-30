@@ -19,7 +19,7 @@
     .line-1,
     .line-2 {
       transform-origin: 450px 85px;
-      animation: float 3s ease-in-out infinite;
+      animation: float 6s ease-in-out infinite;
     }
 
     .line-2 {
