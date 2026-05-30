@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./banner-light.svg#gh-light-mode-only" alt="Animated banner for light mode" />
   <img src="./banner-dark.svg#gh-dark-mode-only" alt="Animated banner for dark mode" />
@@ -15,19 +14,19 @@
 
 **Extensions for Pi**
 
-- [pi-lean-grep](https://github.com/RunMintOn/pi-lean-grep) ｜ 新项目 ｜ 让 Pi 内置的 grep tool 更克制：少烧 token、少点噪音、回归原本定位
-- [pi-guard-sandbox](https://github.com/RunMintOn/pi-guard-sandbox) ｜ 近600次下载 ｜ 给 Pi 定制的 OS 级沙盒，放心让 Pi 跑，无感、精准、透明可控
+- [pi-lean-grep](https://github.com/RunMintOn/pi-lean-grep) ｜ 精心设计 ｜ 让 Pi 内置的 grep tool 更克制：少烧 token, 少点噪音, 回归原本定位
+- [pi-guard-sandbox](https://github.com/RunMintOn/pi-guard-sandbox) ｜ 近600次下载 ｜ 给 Pi 定制的 OS 级沙盒, 放心让 Pi 跑，无感、精准、透明可控
 
 **Apps**
 
-- [Bolt-fastest-voice-input](https://github.com/RunMintOn/Bolt-fastest-voice-input) ｜ Windows 语音输入 ｜ 为速度而生，深度适配豆包 ASR
-- [SKILL-inventory-Matrix](https://github.com/RunMintOn/SKILL-inventory-Matrix) ｜ Agent CLI ｜ 管理 Win / WSL 下各个 Agent CLI 的 Skill
-- [FuseTime](https://github.com/RunMintOn/FuseTime) ｜ 托盘工具 ｜ Win 下低摩擦 Time Box 工具
-- [CapsWriter-Offline-for-Linux](https://github.com/RunMintOn/CapsWriter-Offline-for-Linux) ｜ Linux 语音输入 ｜ 支持热词、LLM 处理
+- [Bolt-fastest-voice-input](https://github.com/RunMintOn/Bolt-fastest-voice-input) ｜ 为速度而生 ｜ 深度适配豆包ASR的Windows 语音输入方案
+- [SKILL-inventory-Matrix](https://github.com/RunMintOn/SKILL-inventory-Matrix) ｜ 方便, 直观的管理 Win/Wsl 下各个Agent Cli 的 Skill
+- [FuseTime](https://github.com/RunMintOn/FuseTime) ｜ Win 下低摩擦 Time Box 工具
+- [CapsWriter-Offline-for-Linux](https://github.com/RunMintOn/CapsWriter-Offline-for-Linux) ｜适配 x11 Linux ｜ 语音输入法，支持热词、LLM处理
 
 **CLI tools and Chrome Extensions**
 
-- [SessionLens](https://github.com/RunMintOn/SessionLens) ｜ CLI 工具 ｜ 浏览、管理、打开 Agent CLI 对话，适配多平台
-- [Accorda](https://github.com/RunMintOn/Accorda) ｜ Agent Demo ｜ 方便 agent 调试开发
-- [cascade](https://github.com/RunMintOn/cascade) ｜ 浏览器扩展 ｜ 侧边栏、书签、缓冲区
-- [Engram](https://github.com/RunMintOn/Engram) ｜ Chrome 扩展 ｜ 保存多平台 AI 网页对话记录，侧边栏搜索
+- [SessionLens](https://github.com/RunMintOn/SessionLens) ｜ Cli 工具 ｜ 浏览、管理、打开 Agent Cli 对话，适配多平台
+- [Accorda](https://github.com/RunMintOn/Accorda) ｜ 一个 Agent demo, 特点是方便Agent调试开发自身
+- [Cascade](https://github.com/RunMintOn/cascade) ｜ 浏览器侧边栏、书签、缓冲区...
+- [Engram](https://github.com/RunMintOn/Engram) ｜ 保存多平台 AI 网页对话记录的侧边栏插件，搜索功能完善
