@@ -10,8 +10,7 @@
 - AI-Native, 边学边做. 希望每一次产出都更扎实、更有价值
 - 目前寻找实习机会，方向主要是 AI 工具、开发者体验，以及偏产品导向的工程开发
 
-## Projects
-
+##
 **Extensions for Pi**
 
 - [pi-lean-grep](https://github.com/RunMintOn/pi-lean-grep) ｜ 精心设计 ｜ 让 Pi 内置的 grep tool 更克制：少烧 token, 少点噪音, 回归原本定位
@@ -27,6 +26,11 @@
 **CLI tools and Chrome Extensions**
 
 - [SessionLens](https://github.com/RunMintOn/SessionLens) ｜ Cli 工具 ｜ 浏览、管理、打开 Agent Cli 对话，适配多平台
-- [Accorda](https://github.com/RunMintOn/Accorda) ｜ 一个 Agent demo, 特点是方便Agent调试开发自身
 - [Cascade](https://github.com/RunMintOn/cascade) ｜ 浏览器侧边栏、书签、缓冲区...
 - [Engram](https://github.com/RunMintOn/Engram) ｜ 保存多平台 AI 网页对话记录的侧边栏插件，搜索功能完善
+
+**Demo**
+
+- [Accorda](https://github.com/RunMintOn/Accorda) ｜ 一个 Agent demo, 特点是方便Agent调试开发自身
+- [Lilac](https://github.com/RunMintOn/Lilac) ｜ 一个超快的笔记 Agent 尝试...byok!
+
