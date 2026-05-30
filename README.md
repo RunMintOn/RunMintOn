@@ -23,6 +23,9 @@
 - [FuseTime](https://github.com/RunMintOn/FuseTime) ｜ Win 下低摩擦 Time Box 工具
 - [CapsWriter-Offline-for-Linux](https://github.com/RunMintOn/CapsWriter-Offline-for-Linux) ｜适配 x11 Linux ｜ 语音输入法，支持热词、LLM处理
 
+<details>
+<summary><strong>More</strong></summary>
+
 **CLI tools and Chrome Extensions**
 
 - [SessionLens](https://github.com/RunMintOn/SessionLens) ｜ Cli 工具 ｜ 浏览、管理、打开 Agent Cli 对话，适配多平台
@@ -33,4 +36,6 @@
 
 - [Accorda](https://github.com/RunMintOn/Accorda) ｜ 一个 Agent demo, 特点是方便Agent调试开发自身
 - [Lilac](https://github.com/RunMintOn/Lilac) ｜ 一个超快的笔记 Agent 尝试...byok!
+- [TradingAgents](https://github.com/RunMintOn/TradingAgents)｜多智能体金融决策框架, 适配大A...
 
+</details>
