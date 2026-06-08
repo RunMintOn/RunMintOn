@@ -31,7 +31,7 @@
 
 **Demo**
 
-- [Accorda](https://github.com/RunMintOn/Accorda) ｜ 一个 Agent demo, 特点是方便Agent调试开发自身
+- [Accorda](https://github.com/RunMintOn/Accorda) ｜ 一个 Agent demo, 特点是实现 Agent 自举开发
 - [Lilac](https://github.com/RunMintOn/Lilac) ｜ 一个超快的笔记 Agent 尝试...byok!
 - [TradingAgents](https://github.com/RunMintOn/TradingAgents)｜多智能体金融决策框架, 适配大A...
 
