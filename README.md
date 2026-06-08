@@ -11,7 +11,6 @@
 ##
 **Extensions for Pi**
 
-- [pi-lean-grep](https://github.com/RunMintOn/pi-lean-grep) ｜ 精心设计 ｜ 让 Pi 内置的 grep tool 更克制：少烧 token, 少点噪音, 回归原本定位
 - [pi-guard-sandbox](https://github.com/RunMintOn/pi-guard-sandbox) ｜ 超600次下载 ｜ 给 Pi 定制的 OS 级沙盒, 放心让 Pi 跑，无感、精准、透明可控
 
 **Apps**
