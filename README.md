@@ -25,6 +25,7 @@
 <details>
 <summary><strong>Demo</strong></summary>
 
+- [Pi-Aftertaste](https://github.com/RunMintOn/Pi-Aftertaste) | 把项目里的 Pi 历史协作，沉淀为可复用的项目上下文、协作规则与运行时提醒
 - [Accorda](https://github.com/RunMintOn/Accorda) ｜ 一个 Agent demo, 特点是实现 Agent 自举开发
 - [Lilac](https://github.com/RunMintOn/Lilac) ｜ 一个超快的笔记 Agent 尝试...byok!
 - [TradingAgents](https://github.com/RunMintOn/TradingAgents)｜多智能体金融决策框架, 适配大A...
