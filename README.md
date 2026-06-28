@@ -12,6 +12,7 @@
 **Tools**
 
 - [pi-guard-sandbox](https://github.com/RunMintOn/pi-guard-sandbox) ｜ 超700次真实下载 ｜ 给 Pi 定制的 OS 级沙盒, 放心、无感、精准、透明可控
+- [BossMark](https://github.com/RunMintOn/BossMark) | 本地优先的 BOSS 直聘收藏岗位管理插件，用于增强「感兴趣 / 职位收藏」页面
 - [Bolt-fastest-voice-input](https://github.com/RunMintOn/Bolt-fastest-voice-input) ｜ 为速度而生 ｜ 深度适配豆包ASR的Windows 语音输入方案
 - [SessionLens](https://github.com/RunMintOn/SessionLens) ｜ CLI 工具 ｜ 浏览、管理、打开 Agent CLI 对话，适配多平台
 - [SKILL-inventory-Matrix](https://github.com/RunMintOn/SKILL-inventory-Matrix) ｜ 方便, 直观的管理 Win/Wsl 下各个Agent CLI 的 Skill
