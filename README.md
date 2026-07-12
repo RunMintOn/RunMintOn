@@ -4,18 +4,25 @@
 </p>
 
 ## 
-- 热爱创造，致力于解决真实问题
-- 关注 Agent 实现和开发者体验，重视清晰、实用、可靠
+- I love the fundamentals, first-principles thinking, designing and building, and the craft of getting the details just right
+- 关注 Agent, 重视简洁可靠的实现
 - 目前寻找 AI 应用开发、Agent、产品工程方向的实习机会
 
 ##
+
+**Agent Stuff**
+
+- [runmi-agent-stuff](https://github.com/RunMintOn/runmi-agent-stuff) | 我关于 agent 的 一切配置. 缓慢更新
+- [pi-guard-sandbox](https://github.com/RunMintOn/pi-guard-sandbox) ｜ 超700次真实下载 ｜ 给 Pi 定制的 OS 级沙盒, 放心、无感、精准、透明可控
+- [pi-context-usage-refine](https://github.com/RunMintOn/pi-context-usage-refine) | 通过一个 fake provider 来获得准确的 pi 上下文情况
+- [pi-codex-goal](https://github.com/RunMintOn/pi-codex-goal) | codex 的 /goal 在 pi 上的实现
+- [SKILL-inventory-Matrix](https://github.com/RunMintOn/SKILL-inventory-Matrix) ｜ 方便, 直观的管理 Win/Wsl 下各个Agent CLI 的 Skill
+
 **Tools**
 
-- [pi-guard-sandbox](https://github.com/RunMintOn/pi-guard-sandbox) ｜ 超700次真实下载 ｜ 给 Pi 定制的 OS 级沙盒, 放心、无感、精准、透明可控
 - [BossMark](https://github.com/RunMintOn/BossMark) | 本地优先的 BOSS 直聘收藏岗位管理插件，用于增强「感兴趣 / 职位收藏」页面
 - [Bolt-fastest-voice-input](https://github.com/RunMintOn/Bolt-fastest-voice-input) ｜ 为速度而生 ｜ 深度适配豆包ASR的Windows 语音输入方案
 - [SessionLens](https://github.com/RunMintOn/SessionLens) ｜ CLI 工具 ｜ 浏览、管理、打开 Agent CLI 对话，适配多平台
-- [SKILL-inventory-Matrix](https://github.com/RunMintOn/SKILL-inventory-Matrix) ｜ 方便, 直观的管理 Win/Wsl 下各个Agent CLI 的 Skill
 - [FuseTime](https://github.com/RunMintOn/FuseTime) ｜ Win 下低摩擦 Time Box 工具
 
 **Chrome Extensions**
