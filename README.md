@@ -13,6 +13,7 @@
 **Agent Stuff**
 
 - [runmi-agent-stuff](https://github.com/RunMintOn/runmi-agent-stuff) | 我关于 agent 的 一切配置. 缓慢更新
+- [papercuts](https://github.com/RunMintOn/papercuts) | 一个极 lean 的本地命令行工具，用来给 agent 随手记录工作中遇到的小摩擦
 - [pi-guard-sandbox](https://github.com/RunMintOn/pi-guard-sandbox) ｜ 超700次真实下载 ｜ 给 Pi 定制的 OS 级沙盒, 放心、无感、精准、透明可控
 - [pi-context-usage-refine](https://github.com/RunMintOn/pi-context-usage-refine) | 通过一个 fake provider 来获得准确的 pi 上下文情况
 - [pi-profile-switch](https://github.com/RunMintOn/pi-profile-switch) | 快速切换系统提示词以适应不同场景的任务. 稳定可靠
