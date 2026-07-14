@@ -25,6 +25,7 @@
 
 - [BossMark](https://github.com/RunMintOn/BossMark) | 本地优先的 BOSS 直聘收藏岗位管理插件，用于增强「感兴趣 / 职位收藏」页面
 - [Bolt-fastest-voice-input](https://github.com/RunMintOn/Bolt-fastest-voice-input) ｜ 为速度而生 ｜ 深度适配豆包ASR的Windows 语音输入方案
+- [Obsidian-open-in-Terminal](https://github.com/RunMintOn/Obsidian-open-in-Terminal) | 在 Obsidian 中快速打开 terminal 和 Pi
 - [SessionLens](https://github.com/RunMintOn/SessionLens) ｜ CLI 工具 ｜ 浏览、管理、打开 Agent CLI 对话，适配多平台
 - [FuseTime](https://github.com/RunMintOn/FuseTime) ｜ Win 下低摩擦 Time Box 工具
 
