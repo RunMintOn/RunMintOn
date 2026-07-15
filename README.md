@@ -24,7 +24,7 @@ I love the timeless, and the craft of designing, building, and getting the detai
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=RunMintOn&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;hide_rank=true&amp;hide=commits">
-  <img align="right" width="40%" src="https://github-stats-extended.vercel.app/api?username=RunMintOn&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;hide=commits" alt="RunMintOn's GitHub stats" />
+  <img align="right" width="35%" src="https://github-stats-extended.vercel.app/api?username=RunMintOn&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;hide=commits" alt="RunMintOn's GitHub stats" />
 </picture>
 
 - Usually I start with frictions. I dig into the cause, understand the mechanism, refine the implementation, and finally turn the solution that's coherent and reliable.
