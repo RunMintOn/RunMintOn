@@ -18,14 +18,14 @@
 
 ---
 
+I'm ***li ziqian***. I’m pretty good at standing on crowded buses.  
+just kidding.  
+I love the timeless, and the craft of designing, building, and getting the details just right. 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=RunMintOn&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;hide_rank=true&amp;hide=commits">
   <img align="right" width="50%" src="https://github-stats-extended.vercel.app/api?username=RunMintOn&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;hide=commits" alt="RunMintOn's GitHub stats" />
 </picture>
-
-I'm ***li ziqian***. I’m pretty good at standing on crowded buses.  
-just kidding.  
-I love the timeless, and the craft of designing, building, and getting the details just right.   
 
 - Usually I start with frictions. I dig into the cause, understand the mechanism, refine the implementation, and finally turn the solution that's coherent and reliable.
 - Most of my projects begin with dogfooding: I build for a problem I experience, use it heavily, and refine it through real feedback.
