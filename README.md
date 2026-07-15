@@ -19,8 +19,8 @@
 ---
 
 I'm ***li ziqian***. I’m pretty good at standing on crowded buses.  
-Just kidding—though I do pay a lot of attention to **stability**.  
-What I really **love** is the **timeless**, and the craft of designing, building, and getting the details just right.
+Just kidding—though I do pay a lot of attention to **stability**,  
+what I really **love** is the **timeless**, and the craft of designing, building, and getting the details just right.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=RunMintOn&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;hide_rank=true&amp;hide=commits">
