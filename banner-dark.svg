@@ -8,6 +8,11 @@
       text-anchor: middle;
     }
 
+    .subtitle {
+      font-size: 42px;
+      letter-spacing: 2.5px;
+    }
+
     .shadow {
       fill: rgba(23, 37, 84, 0.55);
     }
@@ -16,45 +21,15 @@
       fill: #ffffff;
     }
 
-    .line-1,
-    .line-2 {
-      transform-origin: 450px 85px;
-      animation: float 6s ease-in-out infinite;
-    }
-
-    .line-2 {
-      animation-delay: 0.18s;
-    }
-
-    @keyframes float {
-      0% {
-        transform: translate(0px, 0px) rotate(0deg);
-      }
-      20% {
-        transform: translate(1px, -1px) rotate(-0.5deg);
-      }
-      40% {
-        transform: translate(-1px, 1px) rotate(0.4deg);
-      }
-      60% {
-        transform: translate(1px, 0px) rotate(-0.3deg);
-      }
-      80% {
-        transform: translate(-1px, -1px) rotate(0.5deg);
-      }
-      100% {
-        transform: translate(0px, 0px) rotate(0deg);
-      }
-    }
   </style>
 
-  <g class="line-1">
-    <text x="453" y="58" class="title shadow">Trying Really Hard</text>
-    <text x="450" y="54" class="title main">Trying Really Hard</text>
+  <g>
+    <text x="453" y="58" class="title shadow">POWERFUL AI</text>
+    <text x="450" y="54" class="title main">POWERFUL AI</text>
   </g>
 
-  <g class="line-2">
-    <text x="453" y="118" class="title shadow">For a Better World</text>
-    <text x="450" y="114" class="title main">For a Better World</text>
+  <g>
+    <text x="453" y="116" class="title subtitle shadow">WITHOUT LOSING HUMAN AGENCY</text>
+    <text x="450" y="112" class="title subtitle main">without losing HUMAN agency</text>
   </g>
 </svg>
