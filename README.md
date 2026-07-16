@@ -18,7 +18,7 @@
 
 ---
 
-I'm ***li ziqian***. I’m pretty good at standing on crowded buses.  
+I'm ***ziqian***. I’m pretty good at standing on crowded buses.  
 Just kidding—though I do pay a lot of attention to **stability**,  
 what I really **love** is the **timeless**, and the craft of designing, building, and getting the details just right.
 
@@ -47,6 +47,7 @@ what I really **love** is the **timeless**, and the craft of designing, building
 
 - **[runmi-agent-stuff](https://github.com/RunMintOn/runmi-agent-stuff)** — My configurations, practices, and experiments around Agents. Continuously updated.
 - **[pi-context-usage-refine](https://github.com/RunMintOn/pi-context-usage-refine)** — Uses a probe mechanism to obtain accurate Pi context usage.
+- **[pi-grok-mermaid](https://github.com/RunMintOn/pi-grok-mermaid)** — A Pi ext that automatically renders fenced mermaid blocks as terminal-style Unicode diagrams.
 - **[pi-powershell-tool](https://github.com/RunMintOn/pi-powershell-tool)** — A Pi `pwsh` tool that depends only on PowerShell 7+.
 - **[pi-profile-switch](https://github.com/RunMintOn/pi-profile-switch)** — Quickly switch system prompts for different task contexts.
 - **[pi-codex-goal](https://github.com/RunMintOn/pi-codex-goal)** — A Codex-style `/goal` implementation for Pi.
