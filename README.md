@@ -59,6 +59,7 @@ what I really **love** is the **timeless**, and the craft of designing, building
 <details>
 <summary><strong>More Local-first Tools</strong></summary>
 
+- **[Sticky-Notes](https://github.com/RunMintOn/Sticky-Notes)** — A lightweight, local-first recreation of the classic Windows Sticky Notes experience.
 - **[Obsidian-open-in-Terminal](https://github.com/RunMintOn/Obsidian-open-in-Terminal)** — Open a terminal and Pi from Obsidian with minimal friction.
 - **[FuseTime](https://github.com/RunMintOn/FuseTime)** — A low-friction time-boxing tool for Windows.
 - **[Cascade](https://github.com/RunMintOn/cascade)** — A browser extension that combines a sidebar, bookmarks, and temporary buffers.
