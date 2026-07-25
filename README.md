@@ -50,10 +50,10 @@ what I really **love** is the **timeless**, and the craft of designing, building
 - **[pi-apply-patch](https://github.com/RunMintOn/pi-apply-patch)** — use OpenAI’s native freeform Lark grammar—bringing the model-facing interface very close to Codex-native apply_patch.
 - **[pi-context-pruner](https://github.com/RunMintOn/pi-context-pruner)** — Pi coding agent ext for pruning tool-call trees.
 - **[pi-context-usage-refine](https://github.com/RunMintOn/pi-context-usage-refine)** — Uses a probe mechanism to obtain accurate Pi context usage.
-- **[pi-grok-mermaid](https://github.com/RunMintOn/pi-grok-mermaid)** — A Pi ext that automatically renders fenced mermaid blocks as terminal-style Unicode diagrams.
+- **[pi-grok-mermaid](https://github.com/RunMintOn/pi-grok-mermaid)** — A Pi ext that automatically renders fenced mermaid blocks as terminal-style Unicode diagrams. <a href="https://www.npmjs.com/package/pi-grok-mermaid"><img src="https://img.shields.io/npm/dt/pi-grok-mermaid" alt="npm total downloads" /></a>
 - **[pi-powershell-tool](https://github.com/RunMintOn/pi-powershell-tool)** — A Pi `pwsh` tool that depends only on PowerShell 7+.
 - **[pi-profile-switch](https://github.com/RunMintOn/pi-profile-switch)** — Quickly switch system prompts for different task contexts.
-- **[pi-codex-goal](https://github.com/RunMintOn/pi-codex-goal)** — A Codex-style `/goal` implementation for Pi.
+- **[pi-codex-goal](https://github.com/RunMintOn/pi-codex-goal)** — A Codex-style `/goal` implementation for Pi. <a href="https://www.npmjs.com/package/@runminton/pi-codex-goal"><img src="https://img.shields.io/npm/dt/@runminton/pi-codex-goal" alt="npm total downloads" /></a>
 - **[SKILL-inventory-Matrix](https://github.com/RunMintOn/SKILL-inventory-Matrix)** — Visually manage Skills across multiple Agent CLIs on Windows and WSL.
 
 </details>
