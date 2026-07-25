@@ -47,7 +47,7 @@ what I really **love** is the **timeless**, and the craft of designing, building
 <summary><strong>More Agent Tools</strong></summary>
 
 - **[runmi-agent-stuff](https://github.com/RunMintOn/runmi-agent-stuff)** — My configurations, practices, and experiments around Agents. Continuously updated.
-- **[pi-apply-patch](https://github.com/RunMintOn/pi-apply-patch)** — use OpenAI’s native freeform Lark grammar—bringing the model-facing interface very close to Codex-native apply_patch.
+- **[pi-apply-patch](https://github.com/RunMintOn/pi-apply-patch)** — use OpenAI’s native freeform Lark grammar—bringing the model-facing interface very close to Codex-native apply_patch. [![npm](https://img.shields.io/npm/dt/@runminton/pi-apply-patch)](https://www.npmjs.com/package/@runminton/pi-apply-patch)
 - **[pi-context-pruner](https://github.com/RunMintOn/pi-context-pruner)** — Pi coding agent ext for pruning tool-call trees.
 - **[pi-context-usage-refine](https://github.com/RunMintOn/pi-context-usage-refine)** — Uses a probe mechanism to obtain accurate Pi context usage.
 - **[pi-grok-mermaid](https://github.com/RunMintOn/pi-grok-mermaid)** — A Pi ext that automatically renders fenced mermaid blocks as terminal-style Unicode diagrams. <a href="https://www.npmjs.com/package/pi-grok-mermaid"><img src="https://img.shields.io/npm/dt/pi-grok-mermaid" alt="npm total downloads" /></a>
