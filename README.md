@@ -46,6 +46,7 @@ what I really **love** is the **timeless**, and the craft of designing, building
 <details>
 <summary><strong>More Agent Tools</strong></summary>
 
+- **[runmi-agent-stuff](https://github.com/RunMintOn/runmi-agent-stuff)** - some of my agent configs. gradually updating : )
 - **[pi-apply-patch](https://github.com/RunMintOn/pi-apply-patch)** — use freeform Lark grammar—bringing the model-facing interface very close to Codex-native apply_patch. [![npm](https://img.shields.io/npm/dt/@runminton/pi-apply-patch)](https://www.npmjs.com/package/@runminton/pi-apply-patch)
 - **[pi-context-pruner](https://github.com/RunMintOn/pi-context-pruner)** — Pi coding agent ext for pruning tool-call trees.
 - **[pi-context-usage-refine](https://github.com/RunMintOn/pi-context-usage-refine)** — Uses a probe mechanism to obtain accurate Pi context usage.
