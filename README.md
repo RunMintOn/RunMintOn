@@ -46,6 +46,8 @@ Just kidding—though I do pay a lot of attention to **stability**, what I reall
 <summary><strong>More Agent Tools</strong></summary>
 
 - **[runmi-agent-stuff](https://github.com/RunMintOn/runmi-agent-stuff)** - some of my agent configs. gradually updating : )
+- **[pi-tidy-tools](https://github.com/RunMintOn/pi-tidy-tools)** - elegant pi TUI tool render
+- **[pi-parallel-batch](https://github.com/RunMintOn/pi-parallel-batch)** - parallel tool call TUI widget/notify 
 - **[pi-apply-patch](https://github.com/RunMintOn/pi-apply-patch)** — use freeform Lark grammar—bringing the model-facing interface very close to Codex-native apply_patch. [![npm](https://img.shields.io/npm/dt/@runminton/pi-apply-patch)](https://www.npmjs.com/package/@runminton/pi-apply-patch)
 - **[pi-context-pruner](https://github.com/RunMintOn/pi-context-pruner)** — Pi coding agent ext for pruning tool-call trees.
 - **[pi-context-usage-refine](https://github.com/RunMintOn/pi-context-usage-refine)** — Uses a probe mechanism to obtain accurate Pi context usage.
