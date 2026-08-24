@@ -42,20 +42,19 @@ Just kidding—though I do pay a lot of attention to **stability**, what I reall
 - **[BossMark](https://github.com/RunMintOn/BossMark)** — A BOSS Zhipin saved-jobs manager that improves the “Interested” and saved-jobs workflow.
 
 <details>
-<summary><strong>More Agent Tools</strong></summary>
+<summary><strong>**Click** to see More Agent Tools</strong></summary>
 
-- **[runmi-agent-stuff](https://github.com/RunMintOn/runmi-agent-stuff)** - some of my agent configs. gradually updating : )
-- **[pi-tidy-tools](https://github.com/RunMintOn/pi-tidy-tools)** - elegant pi TUI tool render
-- **[pi-parallel-batch](https://github.com/RunMintOn/pi-parallel-batch)** - parallel tool call TUI widget/notify 
+- **[runmi-agent-stuff](https://github.com/RunMintOn/runmi-agent-stuff)** - some of my agent configs. ~randomly~ gradually updating : )
+- **[pi-tidy-tools](https://github.com/RunMintOn/pi-tidy-tools)** - elegant pi TUI tool render <a href="https://www.npmjs.com/package/@runminton/pi-tidy-tools"><img src="https://img.shields.io/npm/dt/@runminton/pi-tidy-tools" alt="npm total downloads" /></a>
+- **[pi-parallel-batch](https://github.com/RunMintOn/pi-parallel-batch)** - parallel tool call TUI widget/notify  <a href="https://www.npmjs.com/package/@runminton/pi-parallel-batch"><img src="https://img.shields.io/npm/dt/@runminton/pi-parallel-batch" alt="npm total downloads" /></a>
 - **[pi-apply-patch](https://github.com/RunMintOn/pi-apply-patch)** — use freeform Lark grammar—bringing the model-facing interface very close to Codex-native apply_patch. [![npm](https://img.shields.io/npm/dt/@runminton/pi-apply-patch)](https://www.npmjs.com/package/@runminton/pi-apply-patch)
 - **[pi-context-pruner](https://github.com/RunMintOn/pi-context-pruner)** — Pi coding agent ext for pruning tool-call trees.
 - **[pi-context-usage-refine](https://github.com/RunMintOn/pi-context-usage-refine)** — Uses a probe mechanism to obtain accurate Pi context usage.
 - **[pi-grok-mermaid](https://github.com/RunMintOn/pi-grok-mermaid)** — A Pi ext that automatically renders fenced mermaid blocks as terminal-style Unicode diagrams. <a href="https://www.npmjs.com/package/pi-grok-mermaid"><img src="https://img.shields.io/npm/dt/pi-grok-mermaid" alt="npm total downloads" /></a>
-- **[pi-powershell-tool](https://github.com/RunMintOn/pi-powershell-tool)** — A Pi `pwsh` tool that depends only on PowerShell 7+.
+- **[pi-powershell-tool](https://github.com/RunMintOn/pi-powershell-tool)** — A Pi `pwsh` tool that depends only on PowerShell 7+. <a href="https://www.npmjs.com/package/@runminton/pi-powershell-tool"><img src="https://img.shields.io/npm/dt/@runminton/pi-powershell-tool" alt="npm total downloads" /></a>
 - **[pi-profile-switch](https://github.com/RunMintOn/pi-profile-switch)** — Quickly switch system prompts for different task contexts.
 - **[pi-codex-goal](https://github.com/RunMintOn/pi-codex-goal)** — A Codex-style `/goal` implementation for Pi. <a href="https://www.npmjs.com/package/@runminton/pi-codex-goal"><img src="https://img.shields.io/npm/dt/@runminton/pi-codex-goal" alt="npm total downloads" /></a>
 - **[SKILL-inventory-Matrix](https://github.com/RunMintOn/SKILL-inventory-Matrix)** — Visually manage Skills across multiple Agent CLIs on Windows and WSL.
-- **[runmi-agent-stuff](https://github.com/RunMintOn/runmi-agent-stuff)** — My configurations, practices, and experiments around Agents. Continuously updated.
 
 </details>
 
