@@ -6,13 +6,12 @@
 ---
 <p align="center">
   <strong>I build the layer between people and AI — </strong><br />
-  making Intent clearer, Ontext recoverable, and Agent behavior transparent and controllable.
+  making Intent clearer, Ontext recoverable, and Agent behavior controllable.
 </p>
 
    <p align="center">
      <kbd>Agent safety</kbd>
-     <kbd>Context continuity</kbd>
-     <kbd>Local-first tools</kbd>
+     <kbd>Context Engineer</kbd>
      <kbd>Developer experience</kbd>
    </p>
 
