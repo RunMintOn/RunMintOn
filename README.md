@@ -36,13 +36,13 @@ Just kidding—though I do pay a lot of attention to **stability**, what I reall
 - **[pi-guard-sandbox](https://github.com/RunMintOn/pi-guard-sandbox)** — An OS-level sandbox for Pi Agents that provides precise, transparent, and controllable safety boundaries without adding approval friction. <a href="https://www.npmjs.com/package/pi-guard-sandbox"><img src="https://img.shields.io/npm/dt/pi-guard-sandbox" alt="npm total downloads" /></a>
 - **[papercuts](https://github.com/RunMintOn/papercuts)** — An extremely ***lean*** CLI that lets Agents capture small workflow frictions as they arise, continuously improving the runtime environment.
 - **[Palimpsest](https://github.com/RunMintOn/Palimpsest)** — Live semantic passage retrieval for Obsidian. No search, no chat — just your own writing, quietly re-surfaced.
+- **[LinkPouch](https://github.com/RunMintOn/LinkPouch)** - A ***lean*** keyboard-first browser reading queue so you can save any link at lighting speed.
 - **[SessionLens](https://github.com/RunMintOn/SessionLens)** — Browse, manage, and reopen Agent CLI conversations across platforms.
 - **[Bolt](https://github.com/RunMintOn/Bolt-fastest-voice-input)** — A voice-input solution deeply tuned for Doubao ASR, designed around low latency and rapid text insertion.
 - **[Engram](https://github.com/RunMintOn/Engram)** — A browser sidebar extension for saving and searching AI web conversations across platforms.
-- **[BossMark](https://github.com/RunMintOn/BossMark)** — A BOSS Zhipin saved-jobs manager that improves the “Interested” and saved-jobs workflow.
 
 <details>
-<summary><strong>**Click** to see More Agent Tools</strong></summary>
+<summary><strong>Click to see More Agent Tools</strong></summary>
 
 - **[runmi-agent-stuff](https://github.com/RunMintOn/runmi-agent-stuff)** - some of my agent configs. ~randomly~ gradually updating : )
 - **[pi-tidy-tools](https://github.com/RunMintOn/pi-tidy-tools)** - elegant pi TUI tool render <a href="https://www.npmjs.com/package/@runminton/pi-tidy-tools"><img src="https://img.shields.io/npm/dt/@runminton/pi-tidy-tools" alt="npm total downloads" /></a>
@@ -65,6 +65,7 @@ Just kidding—though I do pay a lot of attention to **stability**, what I reall
 - **[Obsidian-open-in-Terminal](https://github.com/RunMintOn/Obsidian-open-in-Terminal)** — Open a terminal and Pi from Obsidian with minimal friction.
 - **[FuseTime](https://github.com/RunMintOn/FuseTime)** — A low-friction time-boxing tool for Windows.
 - **[Cascade](https://github.com/RunMintOn/cascade)** — A browser extension that combines a sidebar, bookmarks, and temporary buffers.
+- **[BossMark](https://github.com/RunMintOn/BossMark)** — A BOSS Zhipin saved-jobs manager that improves the “Interested” and saved-jobs workflow.
 
 </details>
 
