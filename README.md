@@ -6,7 +6,7 @@
 ---
 
 
-I'm **Runminton**. I craft the quiet space between people and AI — where intent is gently understood, context is softly held, and agency finds its boundaries.
+I'm **Runminton**. I craft the quiet space between people and AI — where intent is understood, context is held, and agency finds its boundaries.
 
 I care about **stability**, the **timeless**, and dissolving the frictions I live in: diving into mechanisms, dogfooding daily, and turning rough edges into tools that are coherent, dependable, and calm.
 
