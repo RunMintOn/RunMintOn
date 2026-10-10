@@ -1,51 +1,39 @@
 <p align="center">
-  <img src="./banner-light.svg#gh-light-mode-only" alt="Animated banner for light mode" />
-  <img src="./banner-dark.svg#gh-dark-mode-only" alt="Animated banner for dark mode" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=5000&amp;pause=2500&amp;color=777777&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=At+the+end+of+all+things+lie+love+and+order." alt="At the end of all things lie love and order." />
 </p>
 
----
-<p align="center">
-  <strong>I build the layer between people and AI — </strong><br />
-  making Intent clearer, Ontext recoverable, and Agent behavior controllable.
-</p>
-
-   <p align="center">
-     <kbd>Agent safety</kbd>
-     <kbd>Context Engineer</kbd>
-     <kbd>Developer experience</kbd>
-   </p>
 
 ---
 
-I'm ***ziqian***. I’m pretty good at standing on crowded buses.  
-Just kidding—though I do pay a lot of attention to **stability**, what I really **love** is the **timeless**, and the craft of designing, building, and getting the details just right.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=RunMintOn&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;hide_rank=true&amp;hide=commits">
-  <img align="right" width="41%" src="https://github-stats-extended.vercel.app/api?username=RunMintOn&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;hide=commits" alt="RunMintOn's GitHub stats" />
-</picture>
+I'm **Runminton**. I craft the quiet space between people and AI — where intent is gently understood, context is softly held, and agency finds its boundaries.
 
-- Usually I start with frictions. I dig into the cause, understand the mechanism, refine the implementation, and finally turn the solution that's coherent and reliable.
-- Most of my projects begin with dogfooding: I build for a problem I experience, use it heavily, and refine it through real feedback.
-- Currently looking for internships in AI application engineering, agent infrastructure, or product engineering.
-- 寻找 AI 应用开发、Agent Infra 或产品工程方向的实习机会
+I care about **stability**, the **timeless**, and dissolving the frictions I live in: diving into mechanisms, dogfooding daily, and turning rough edges into tools that are coherent, dependable, and calm.
+
+<p>
+  <kbd>Agent Safety</kbd>
+  <kbd>Context Engineering</kbd>
+  <kbd>Developer Experience</kbd>
+</p>
+
+> ✦ **Seeking Internships** · AI App Engineering / Agent Infra / Product Engineering  
 
 
-## Selected Work
+---
+
+#### Selected Work
 
 - **[pi-guard-sandbox](https://github.com/RunMintOn/pi-guard-sandbox)** — An OS-level sandbox for Pi Agents that provides precise, transparent, and controllable safety boundaries without adding approval friction. <a href="https://www.npmjs.com/package/pi-guard-sandbox"><img src="https://img.shields.io/npm/dt/pi-guard-sandbox" alt="npm total downloads" /></a>
 - **[papercuts](https://github.com/RunMintOn/papercuts)** — An extremely ***lean*** CLI that lets Agents capture small workflow frictions as they arise, continuously improving the runtime environment.
 - **[Palimpsest](https://github.com/RunMintOn/Palimpsest)** — Live semantic passage retrieval for Obsidian. No search, no chat — just your own writing, quietly re-surfaced.
+- **[pi-tidy-tools](https://github.com/RunMintOn/pi-tidy-tools)** - elegant pi TUI tool render <a href="https://www.npmjs.com/package/@runminton/pi-tidy-tools"><img src="https://img.shields.io/npm/dt/@runminton/pi-tidy-tools" alt="npm total downloads" /></a>
 - **[LinkPouch](https://github.com/RunMintOn/LinkPouch)** - A ***lean*** keyboard-first browser reading queue so you can save any link at lighting speed.
-- **[SessionLens](https://github.com/RunMintOn/SessionLens)** — Browse, manage, and reopen Agent CLI conversations across platforms.
 - **[Bolt](https://github.com/RunMintOn/Bolt-fastest-voice-input)** — A voice-input solution deeply tuned for Doubao ASR, designed around low latency and rapid text insertion.
-- **[Engram](https://github.com/RunMintOn/Engram)** — A browser sidebar extension for saving and searching AI web conversations across platforms.
 
 <details>
 <summary><strong>Click to see More Agent Tools</strong></summary>
 
 - **[runmi-agent-stuff](https://github.com/RunMintOn/runmi-agent-stuff)** - some of my agent configs. ~randomly~ gradually updating : )
-- **[pi-tidy-tools](https://github.com/RunMintOn/pi-tidy-tools)** - elegant pi TUI tool render <a href="https://www.npmjs.com/package/@runminton/pi-tidy-tools"><img src="https://img.shields.io/npm/dt/@runminton/pi-tidy-tools" alt="npm total downloads" /></a>
 - **[pi-parallel-batch](https://github.com/RunMintOn/pi-parallel-batch)** - parallel tool call TUI widget/notify  <a href="https://www.npmjs.com/package/@runminton/pi-parallel-batch"><img src="https://img.shields.io/npm/dt/@runminton/pi-parallel-batch" alt="npm total downloads" /></a>
 - **[pi-apply-patch](https://github.com/RunMintOn/pi-apply-patch)** — use freeform Lark grammar—bringing the model-facing interface very close to Codex-native apply_patch. [![npm](https://img.shields.io/npm/dt/@runminton/pi-apply-patch)](https://www.npmjs.com/package/@runminton/pi-apply-patch)
 - **[pi-context-pruner](https://github.com/RunMintOn/pi-context-pruner)** — Pi coding agent ext for pruning tool-call trees.
@@ -66,6 +54,9 @@ Just kidding—though I do pay a lot of attention to **stability**, what I reall
 - **[FuseTime](https://github.com/RunMintOn/FuseTime)** — A low-friction time-boxing tool for Windows.
 - **[Cascade](https://github.com/RunMintOn/cascade)** — A browser extension that combines a sidebar, bookmarks, and temporary buffers.
 - **[BossMark](https://github.com/RunMintOn/BossMark)** — A BOSS Zhipin saved-jobs manager that improves the “Interested” and saved-jobs workflow.
+- **[SessionLens](https://github.com/RunMintOn/SessionLens)** — Browse, manage, and reopen Agent CLI conversations across platforms.
+- **[Engram](https://github.com/RunMintOn/Engram)** — A browser sidebar extension for saving and searching AI web conversations across platforms.
+
 
 </details>
 
