@@ -27,6 +27,7 @@ I care about **stability**, the **timeless**, and dissolving the frictions I liv
 - **[papercuts](https://github.com/RunMintOn/papercuts)** — An extremely ***lean*** CLI that lets Agents capture small workflow frictions as they arise, continuously improving the runtime environment.
 - **[Palimpsest](https://github.com/RunMintOn/Palimpsest)** — Live semantic passage retrieval for Obsidian. No search, no chat — just your own writing, quietly re-surfaced.
 - **[pi-tidy-tools](https://github.com/RunMintOn/pi-tidy-tools)** - elegant pi TUI tool render <a href="https://www.npmjs.com/package/@runminton/pi-tidy-tools"><img src="https://img.shields.io/npm/dt/@runminton/pi-tidy-tools" alt="npm total downloads" /></a>
+- **[pi-async-bash](https://github.com/RunMintOn/pi-async-bash)** - Automatically hand long-running bash commands to a managed background task and resume the session when it finishes.
 - **[LinkPouch](https://github.com/RunMintOn/LinkPouch)** - A ***lean*** keyboard-first browser reading queue so you can save any link at lighting speed.
 - **[Bolt](https://github.com/RunMintOn/Bolt-fastest-voice-input)** — A voice-input solution deeply tuned for Doubao ASR, designed around low latency and rapid text insertion.
 
