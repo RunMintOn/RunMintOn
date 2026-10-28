@@ -16,7 +16,7 @@ I care about **stability**, the **timeless**, and dissolving the frictions I liv
   <kbd>Developer Experience</kbd>
 </p>
 
-> ✦ **Seeking Internships** · AI App Engineering / Agent Infra / Product Engineering  
+> ✦ **Seeking Internships** · AI App Dev / Agent Infra / Product Engineering  
 
 
 ---
@@ -27,7 +27,6 @@ I care about **stability**, the **timeless**, and dissolving the frictions I liv
 - **[papercuts](https://github.com/RunMintOn/papercuts)** — An extremely ***lean*** CLI that lets Agents capture small workflow frictions as they arise, continuously improving the runtime environment.
 - **[Palimpsest](https://github.com/RunMintOn/Palimpsest)** — Live semantic passage retrieval for Obsidian. No search, no chat — just your own writing, quietly re-surfaced.
 - **[pi-tidy-tools](https://github.com/RunMintOn/pi-tidy-tools)** - elegant pi TUI tool render. <a href="https://www.npmjs.com/package/@runminton/pi-tidy-tools"><img src="https://img.shields.io/npm/dt/@runminton/pi-tidy-tools" alt="npm total downloads" /></a>
-- **[pi-async-bash](https://github.com/RunMintOn/pi-async-bash)** - Automatically hand long-running bash commands to a managed background task and resume the session when it finishes.
 - **[LinkPouch](https://github.com/RunMintOn/LinkPouch)** - A ***lean*** keyboard-first browser reading queue so you can save any link at lighting speed.
 - **[Bolt](https://github.com/RunMintOn/Bolt-fastest-voice-input)** — A voice-input solution deeply tuned for Doubao ASR, designed around low latency and rapid text insertion.
 
@@ -38,6 +37,7 @@ I care about **stability**, the **timeless**, and dissolving the frictions I liv
 - **[pi-parallel-batch](https://github.com/RunMintOn/pi-parallel-batch)** - parallel tool call TUI widget/notify  <a href="https://www.npmjs.com/package/@runminton/pi-parallel-batch"><img src="https://img.shields.io/npm/dt/@runminton/pi-parallel-batch" alt="npm total downloads" /></a>
 - **[pi-apply-patch](https://github.com/RunMintOn/pi-apply-patch)** — use freeform Lark grammar—bringing the model-facing interface very close to Codex-native apply_patch. [![npm](https://img.shields.io/npm/dt/@runminton/pi-apply-patch)](https://www.npmjs.com/package/@runminton/pi-apply-patch)
 - **[pi-context-pruner](https://github.com/RunMintOn/pi-context-pruner)** — Pi coding agent ext for pruning tool-call trees.
+- **[pi-async-bash](https://github.com/RunMintOn/pi-async-bash)** - Automatically hand long-running bash commands to a managed background task and resume the session when it finishes.
 - **[pi-context-usage-refine](https://github.com/RunMintOn/pi-context-usage-refine)** — Uses a probe mechanism to obtain accurate Pi context usage.
 - **[pi-grok-mermaid](https://github.com/RunMintOn/pi-grok-mermaid)** — A Pi ext that automatically renders fenced mermaid blocks as terminal-style Unicode diagrams. <a href="https://www.npmjs.com/package/pi-grok-mermaid"><img src="https://img.shields.io/npm/dt/pi-grok-mermaid" alt="npm total downloads" /></a>
 - **[pi-powershell-tool](https://github.com/RunMintOn/pi-powershell-tool)** — A Pi `pwsh` tool that depends only on PowerShell 7+. <a href="https://www.npmjs.com/package/@runminton/pi-powershell-tool"><img src="https://img.shields.io/npm/dt/@runminton/pi-powershell-tool" alt="npm total downloads" /></a>
