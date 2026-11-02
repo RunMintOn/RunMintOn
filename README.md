@@ -65,7 +65,7 @@ Everything I build for [Pi](https://github.com/mariozechner/pi) — safety bound
 <tr>
 <td valign="top" width="33%"><a href="https://github.com/RunMintOn/pi-aftertaste"><b>Pi-Aftertaste</b></a><br><sub>Past sessions become context</sub></td>
 <td valign="top" width="33%"><a href="https://github.com/RunMintOn/pi-bark-reminder"><b>Pi-Bark-Reminder</b></a><br><sub>Bark push when a task ends</sub></td>
-<td width="33%"></td>
+<td valign="top" width="33%"><a href="https://github.com/RunMintOn/pi-cwd-memory"><b>pi-cwd-memory</b></a><br><sub>A tiny agent memory layer</sub></td>
 </tr>
 </table>
 
