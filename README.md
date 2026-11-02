@@ -25,7 +25,7 @@ I try to build things that actually get used — and I'd rather cut a feature th
 <a href="https://github.com/RunMintOn/Galley"><b>Galley</b></a><br><sub>Review many local projects in one window: files, diffs, and Agent replies.</sub>
 
 <details>
-<summary><strong>Pi Agent Extensions</strong> &nbsp;·&nbsp; 20</summary>
+<summary><strong>Pi Agent Extensions</strong> &nbsp;·&nbsp; 21</summary>
 
 <br>
 
