@@ -63,8 +63,8 @@ Everything I build for [Pi](https://github.com/mariozechner/pi) — safety bound
 <td valign="top" width="33%"><a href="https://github.com/RunMintOn/pi-codex-goal"><b>pi-codex-goal</b></a>&nbsp;<a href="https://www.npmjs.com/package/%40runminton%2Fpi-codex-goal"><img src="https://img.shields.io/npm/dt/@runminton/pi-codex-goal?style=flat-square&label=npm&color=8b949e" height="16" alt="npm total downloads" /></a><br><sub>Codex-style /goal tracking</sub></td>
 </tr>
 <tr>
-<td valign="top" width="33%"><a href="https://github.com/RunMintOn/Pi-Aftertaste"><b>Pi-Aftertaste</b></a><br><sub>Past sessions become context</sub></td>
-<td valign="top" width="33%"><a href="https://github.com/RunMintOn/Pi-Bark-Reminder"><b>Pi-Bark-Reminder</b></a><br><sub>Bark push when a task ends</sub></td>
+<td valign="top" width="33%"><a href="https://github.com/RunMintOn/pi-aftertaste"><b>Pi-Aftertaste</b></a><br><sub>Past sessions become context</sub></td>
+<td valign="top" width="33%"><a href="https://github.com/RunMintOn/pi-bark-reminder"><b>Pi-Bark-Reminder</b></a><br><sub>Bark push when a task ends</sub></td>
 <td width="33%"></td>
 </tr>
 </table>
