@@ -10,11 +10,6 @@ I'm **Runminton**. Interest-driven and wide by nature — a generalist who learn
 
 I try to build things that actually get used — and I'd rather cut a feature than ship one I don't trust.
 
-<p>
-  <kbd>Agent Safety</kbd>
-  <kbd>Context Engineering</kbd>
-  <kbd>Developer Experience</kbd>
-</p>
 
 > ✦ **Seeking Internships** · AI App Dev / Agent Infra / Product Engineering  
 
@@ -23,17 +18,11 @@ I try to build things that actually get used — and I'd rather cut a feature th
 
 #### Selected Work
 
-<table>
-<tr>
-<td valign="top"><a href="https://github.com/RunMintOn/Palimpsest"><b>Palimpsest</b></a><br><sub>Your own writing for Obsidian, quietly re-surfaced. No search, no chat.</sub></td>
-</tr>
-<tr>
-<td valign="top"><a href="https://github.com/RunMintOn/Wick"><b>Wick</b></a><br><sub>A small macOS console for native local services. No Docker, no Linux VM.</sub></td>
-</tr>
-<tr>
-<td valign="top"><a href="https://github.com/RunMintOn/Galley"><b>Galley</b></a><br><sub>Review many local projects in one window: files, diffs, and Agent replies.</sub></td>
-</tr>
-</table>
+<a href="https://github.com/RunMintOn/Palimpsest"><b>Palimpsest</b></a><br><sub>Your own writing for Obsidian, quietly re-surfaced. No search, no chat.</sub>
+
+<a href="https://github.com/RunMintOn/Wick"><b>Wick</b></a><br><sub>A small macOS console for native local services. No Docker, no Linux VM.</sub>
+
+<a href="https://github.com/RunMintOn/Galley"><b>Galley</b></a><br><sub>Review many local projects in one window: files, diffs, and Agent replies.</sub>
 
 <details>
 <summary><strong>Pi Agent Extensions</strong> &nbsp;·&nbsp; 20</summary>
