@@ -25,7 +25,7 @@ I try to build things that actually get used — and I'd rather cut a feature th
 <a href="https://github.com/RunMintOn/Galley"><b>Galley</b></a><br><sub>Review many local projects in one window: files, diffs, and Agent replies.</sub>
 
 <details>
-<summary><strong>Pi Agent Extensions</strong> &nbsp;·&nbsp; 21</summary>
+<summary><strong>Pi Agent Extensions</strong> &nbsp;·&nbsp; 23</summary>
 
 <br>
 
@@ -66,6 +66,10 @@ Everything I build for [Pi](https://github.com/mariozechner/pi) — safety bound
 <td valign="top" width="33%"><a href="https://github.com/RunMintOn/pi-aftertaste"><b>pi-aftertaste</b></a><br><sub>Past sessions become context</sub></td>
 <td valign="top" width="33%"><a href="https://github.com/RunMintOn/pi-bark-reminder"><b>pi-bark-reminder</b></a><br><sub>Bark push when a task ends</sub></td>
 <td valign="top" width="33%"><a href="https://github.com/RunMintOn/pi-cwd-memory"><b>pi-cwd-memory</b></a><br><sub>A tiny agent memory layer</sub></td>
+</tr>
+<tr>
+<td valign="top" width="33%"><a href="https://github.com/RunMintOn/pi-image-gen"><b>pi-image-gen</b></a><br><sub>Image generation via your ChatGPT login</sub></td>
+<td valign="top" width="33%"><a href="https://github.com/RunMintOn/pi-transcript"><b>pi-transcript</b></a><br><sub>Compact session export for handoffs</sub></td>
 </tr>
 </table>
 
