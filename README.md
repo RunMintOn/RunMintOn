@@ -22,7 +22,7 @@ I try to build things that actually get used — and I'd rather cut a feature th
 
 <a href="https://github.com/RunMintOn/Wick"><b>Wick</b></a><br><sub>A small macOS console for native local services. No Docker, no Linux VM.</sub>
 
-<a href="https://github.com/RunMintOn/Galley"><b>Galley</b></a><br><sub>Review many local projects in one window: files, diffs, and Agent replies.</sub>
+<a href="https://github.com/RunMintOn/offstage"><b>offstage</b></a><br><sub>：A hidden second display for macOS agents: move a window onto it, preview, record, and hand it back.</sub>
 
 <details>
 <summary><strong>Pi Agent Extensions</strong> &nbsp;·&nbsp; 21</summary>
